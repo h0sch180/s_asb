@@ -11,5 +11,5 @@ git clone https://github.com/h0sch180/s_asb s_asb
 
 cd s_asb/lineage
 
-. apply-patches.sh
+bash apply-patches.sh
 ```
